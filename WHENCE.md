@@ -15,6 +15,7 @@ See firmware/LICENSE for details.
 | -------- | ----------- | ----------------- |
 | bcf/morsemicro/bcf\_mf08651\_jp.bin | "Bailey JP" reference module | bcf\_boardtype\_0802.bin |
 | bcf/morsemicro/bcf\_mf08651\_us.bin | "Bailey US" reference module | bcf\_boardtype\_0801.bin |
+| bcf/morsemicro/bcf\_mf08651\_4v3\_us.bin | "Bailey US" VFEM=4.3V | |
 | bcf/morsemicro/bcf\_mm\_hl1.bin | HalowLink 1 | |
 | bcf/morsemicro/bcf\_mm\_hl1\_4v3.bin | HalowLink 1 VFEM=4.3V| |
 
