@@ -25,8 +25,10 @@ See bcf/morsemicro/LICENSE for details.
 | Filename | Description | Boardtype Symlink |
 | -------- | ----------- | ----------------- |
 | bcf/quectel/bcf_fgh100mabmd.bin | FGH100M (US) | |
+| bcf/quectel/bcf_fgh100maamd.bin | FGH100M (EU) | |
 | bcf/quectel/bcf_fgh100mhaamd.bin | FGH100M-H (US) | |
+| bcf/quectel/bcf_fgh100mjaamd.bin | FGH100M-J (JP) | |
 
 License: Unknown  
-Retrieved from Quectel SDK 1 August 2025
+Retrieved from Quectel SDK 25 August 2025
 
