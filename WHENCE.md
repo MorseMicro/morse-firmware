@@ -15,7 +15,6 @@ See firmware/LICENSE for details.
 | -------- | ----------- | ----------------- |
 | bcf/morsemicro/bcf\_mf08651\_jp.bin | "Bailey JP" reference module | bcf\_boardtype\_0802.bin |
 | bcf/morsemicro/bcf\_mf08651\_us.bin | "Bailey US" reference module | bcf\_boardtype\_0801.bin |
-| bcf/morsemicro/bcf\_mf08651\_4v3\_us.bin | "Bailey US" VFEM=4.3V | |
 | bcf/morsemicro/bcf\_mm\_hl1.bin | HalowLink 1 | |
 | bcf/morsemicro/bcf\_mm\_hl1\_4v3.bin | HalowLink 1 VFEM=4.3V| |
 
@@ -26,8 +25,10 @@ See bcf/morsemicro/LICENSE for details.
 | Filename | Description | Boardtype Symlink |
 | -------- | ----------- | ----------------- |
 | bcf/quectel/bcf_fgh100mabmd.bin | FGH100M (US) | |
+| bcf/quectel/bcf_fgh100maamd.bin | FGH100M (EU) | |
 | bcf/quectel/bcf_fgh100mhaamd.bin | FGH100M-H (US) | |
+| bcf/quectel/bcf_fgh100mjaamd.bin | FGH100M-J (JP) | |
 
 License: Unknown  
-Retrieved from Quectel SDK 1 August 2025
+Retrieved from Quectel SDK 25 August 2025
 
