@@ -1,10 +1,11 @@
 TARGET_DIR := /lib/firmware/morse
 
 BCF_BINS := $(shell find bcf -type f -name "*.bin")
+FW_BINS := $(shell find firmware -type f -name "*.bin")
 
 SRC_FILES := \
         $(BCF_BINS) \
-        firmware/mm6108.bin
+        $(FW_BINS)
 
 .PHONY: all install
 
