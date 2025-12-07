@@ -1,7 +1,7 @@
 TARGET_DIR := /lib/firmware/morse
 
-BCF_BINS := $(shell find bcf -type f -name "*.bin")
-FW_BINS := $(shell find firmware -type f -name "*.bin")
+BCF_BINS := $(shell find bcf -name "*.bin")
+FW_BINS := $(shell find firmware -name "*.bin")
 
 SRC_FILES := \
         $(BCF_BINS) \
