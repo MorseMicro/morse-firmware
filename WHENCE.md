@@ -37,6 +37,14 @@ See bcf/morsemicro/LICENSE for details.
 License: Morse Micro Binary Distribution License Agreement  
 See bcf/azurewave/LICENSE for details.
 
+### NetPrisma
+| Filename | Description | Boardtype Symlink |
+| -------- | ----------- | ----------------- |
+| bcf\_wcx040\_fc.bin | WCX040-FC ||
+
+License: Unknown
+Provided by NetPrisma 11 December 2025
+
 ### Quectel
 | Filename | Description | Boardtype Symlink |
 | -------- | ----------- | ----------------- |
