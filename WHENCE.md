@@ -23,6 +23,8 @@ See firmware/LICENSE for details.
 | bcf/morsemicro/bcf\_mf28551.bin | "Bandai JP" reference module | |
 | bcf/morsemicro/bcf\_mm\_hl1.bin | HalowLink 1 | |
 | bcf/morsemicro/bcf\_mm\_hl1\_4v3.bin | HalowLink 1 VFEM=4.3V| |
+| bcf/morsemicro/bcf\_mm\_hl2\_ext.bin | HalowLink 2 | |
+| bcf/morsemicro/bcf\_mm\_mm8108\_m20\_us.bin | MM8108-M20-US reference module | bcf\_boardtype\_0808.bin |
 
 License: Morse Micro Binary Distribution License Agreement  
 See bcf/morsemicro/LICENSE for details.
